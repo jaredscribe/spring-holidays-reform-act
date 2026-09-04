@@ -1,8 +1,9 @@
 # Spring Holidays Reform Act
 
-A proposal to restructure the spring commemorative calendar: establish **May 8**
-as a federal holiday, **repeal Memorial Day**, and give **Juneteenth National
-Independence Day** the statutory observance section it has never had.
+A proposal to restructure the spring commemorative calendar: establish **Victory in WWII day - May 8**
+as a federal holiday, and let **Juneteenth National
+Independence Day** also be known as the **Union Victory and Civil War memorial day**, giving it the statutory observance section it has never had.  **Repeal Memorial Day**, moving its 
+customary mourning for war dead to the prior two holidays.   See also the [Public Readings of the Founding Documents Act](https://github.com/jaredscribe/public-readings-of-the-founding-documents-act) and [Commemoratie Days Observance Act](https://github.com/jaredscribe/public-readings-of-the-founding-documents-act/blob/main/track-a2-commemorative-days-observance-act.md)
 
 **Status: draft, not published as a recommendation. Read the objections first.**
 
