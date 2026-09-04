@@ -51,17 +51,37 @@ designates the last Monday in May as Memorial Day and requests the President to
 proclaim a period of prayer for permanent peace. It names no war, no class of
 dead, and no veterans.
 
-**(6)** The emancipation of enslaved Americans was accomplished by force of
+**(6)** Memorial Day is therefore joined to no event. Unlike Veterans Day,
+which Congress fixed on November 11 — the date of the 1918 armistice — Memorial
+Day commemorates no particular conclusion, deliverance, or victory. It is
+observed as a general day of mourning, and public ceremonies on that day seldom
+connect it to the war from which it arose.
+
+**(7)** A national memorial joined to nothing in particular tends toward
+observance without recollection. Where a day of mourning is anchored to the
+event the dead secured, the commemoration carries its own instruction.
+
+**(8)** Congress has before now converted a holiday commemorating a single
+event into a holiday honoring a broader class of persons. The [Act of June 1,
+1954](https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg168.pdf)
+(68 Stat. 168) changed Armistice Day — established to mark the armistice of
+November 11, 1918 — into Veterans Day, honoring the veterans of all wars, while
+leaving the day fixed to that armistice date. A commemoration anchored to one
+war's conclusion has honored the service of every war for seventy years.
+
+**(9)** The emancipation of enslaved Americans was accomplished by force of
 arms. General Order No. 3, issued at Galveston, Texas on June 19, 1865,
 announced that emancipation to the people of Texas by authority of the United
-States Army.
+States Army. Texas was the last State in rebellion to which the Proclamation
+had not been carried, and the announcement marked the completion of the war's
+central purpose.[^11]
 
-**(7)** Hundreds of thousands of Union soldiers died in the war that ended
+**(10)** Hundreds of thousands of Union soldiers died in the war that ended
 slavery. Their sacrifice and the emancipation it secured are one history, and
 the Nation commemorates them on separate days that make no reference to one
 another.
 
-**(8)** Juneteenth National Independence Day was made a legal public holiday by
+**(11)** Juneteenth National Independence Day was made a legal public holiday by
 [Public Law 117–17](https://www.govinfo.gov/content/pkg/PLAW-117publ17/html/PLAW-117publ17.htm).
 That Act amended [section 6103(a) of title 5, United States
 Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim),
@@ -69,9 +89,17 @@ and nothing else. Juneteenth has no designation or observance provision in
 title 36, United States Code, and no statutory statement of what it
 commemorates.[^4]
 
-**(9)** May 8 has been proclaimed as a day of celebration of victory in the
+**(12)** May 8 has been proclaimed as a day of celebration of victory in the
 Second World War in each of 2025 and 2026. Each proclamation names a single
 calendar date and rests on no statute. The day has no standing in law.[^5]
+
+**(13)** It is the purpose of this Act to join each memorial to the victory it
+secured. The commemoration of those who died in the war that ended slavery is
+placed on the day that marks the completion of emancipation; the commemoration
+of those who died in the military service of the United States is placed on a
+day that marks a victory won. Neither observance is diminished, and each gains
+what a general day of mourning presently lacks — an account of what the dead
+accomplished.
 
 ## SEC. 3. VICTORY DAY FOR WORLD WAR II.
 
@@ -88,9 +116,25 @@ is amended by adding at the end the following new section:
 
 > **"§ 149. Victory Day for World War II**
 > "(a) **Designation.** — May 8 is Victory Day for World War II.
-> "(b) **Proclamation.** — The President is requested to issue each year a
+> "(b) **Commemoration.** — Victory Day for World War II commemorates the
+> victory of the United States and its allies in the Second World War; and
+> **those who have died in the military service of the United States, in every
+> war and conflict in which the United States has engaged**.
+> "(c) **Observance.** — The people of the United States are urged to observe
+> the day by decorating the graves of the dead, by ceremonies at national
+> cemeteries and other places of burial, and by such other observances as
+> honor those who died in the military service of the United States.
+> "(d) **Proclamation.** — The President is requested to issue each year a
 > proclamation calling on the people of the United States to observe the day
 > with appropriate ceremonies and activities."[^6]
+
+> **Note on subsection (b).** This is the provision that receives the general
+> memorial function presently carried by Memorial Day. Its breadth is
+> deliberate and it is the reason Sec. 4's repeal does not orphan the dead of
+> wars other than the Civil War. Subsection (c) carries forward the decoration
+> of graves — the practice from which the observance originated in 1868 — so
+> that what moves to May 8 is the observance itself and not merely the
+> entitlement to a day off.[^12]
 
 ## SEC. 4. REPEAL OF MEMORIAL DAY.
 
@@ -132,15 +176,38 @@ Stated as an opponent would state them, not softened. A proposal this
 contested should meet its objections in its own text.
 
 **1. It leaves the dead of every American war but one with no national day.**
-This is the objection that decides the bill, and it depends on no contested
-fact. Memorial Day is the operative day for Gold Star families, for all 155
-national cemeteries, for Arlington's "Flags In," and for the statutory 3:00
-p.m. National Moment of Remembrance. Veterans Day honors those who *served* —
-it has never been a day for the dead. Sec. 5(b) relocates the Union Civil War
-dead and no one else. **This draft does not answer this objection.** It can
-only be answered by narrowing the bill (drop Sec. 4) or by writing an all-wars
-commemoration into Sec. 5(b), which would make Juneteenth carry a burden its
-own constituency never asked for — see objection 5.
+This was the objection that decided the bill, and an earlier draft did not
+answer it. *Answered, by restructuring:* the memorial does not disappear, it
+divides. **Sec. 3(b) places the dead of every American war on May 8**, with
+Sec. 3(c) carrying forward the decoration of graves — the practice the
+observance began as. **Sec. 5(b) places the Union dead of the Civil War on
+Juneteenth**, the day marking the completion of what they died to secure. Gold
+Star families, the 155 national cemeteries and Arlington's "Flags In" have a
+day; it is a fixed date rather than a floating Monday, and it is joined to a
+victory instead of to nothing.
+
+The bill's affirmative case rests here. Memorial Day is anchored to no event.
+Ceremonies on that day seldom mention the war the day came from, and the
+holiday has drifted toward observance without recollection — the objection this
+project makes of the Fourth of July, in another register. Anchoring each
+memorial to the victory the dead secured supplies what a general day of
+mourning lacks: **an account of what they accomplished.** That is a
+better-grounded commemoration than the one being repealed, and sponsors should
+argue it that way rather than defensively.
+
+**1a. But it anchors mourning for all wars to one war's victory.** The sharpest
+form: why should the mother of a soldier killed in Kandahar observe her son on
+the anniversary of a victory in Europe in a different war? *Answered by direct
+precedent, and this is the strongest answer in the bill:* **Congress has
+already done exactly this, and it was uncontroversial.** [Armistice
+Day](https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg351.pdf)
+was established to mark one specific event — the armistice of November 11,
+1918. In 1954 Congress converted it into Veterans Day, honoring the veterans of
+*every* war, and left it fixed on that date. For seventy years a day anchored
+to one war's conclusion has honored the service of all. Sec. 3 asks for the
+mirror image: a day anchored to one war's victory, honoring the dead of all.
+Finding (8) states the parallel, and any section-by-section should lead with
+it.
 
 **2. The premise is legally false.** No operative statute makes Memorial Day a
 Civil-War observance; [36 U.S.C. §
@@ -235,9 +302,28 @@ That version accomplishes the historical correction, creates scope language for
 rather than something it has never done. It forfeits the net-neutral holiday
 count, which is the repeal version's one clear advantage.
 
-**Recommendation to the drafter:** the alternative is far more likely to be
-introduced, and it captures most of the substantive goal. The repeal version's
-value is as a statement — and it should be understood as one.
+**Recommendation to the drafter — revised.** An earlier version of this
+document recommended the alternative outright, on the ground that the repeal
+version left the dead of most American wars with no national day and could not
+answer for it. **The restructuring in Secs. 3(b) and 5(b) removes that
+defect**, and the repeal version is now a coherent proposal rather than a
+gesture: it does not abolish a memorial, it divides one between two days and
+anchors each to the victory it secured — with the Armistice-to-Veterans Day
+conversion as direct precedent for doing exactly that.
+
+The choice is now genuinely open, and turns on appetite rather than on a flaw:
+
+- **The repeal version** is the stronger *idea* and is net-neutral on the
+  holiday count. It still asks Congress to do something it has never done —
+  remove a day from § 6103 — over the predictable objection of veterans'
+  organizations.
+- **The alternative** asks Congress to do something it has done before, is far
+  likelier to be introduced, and forfeits the net-neutral count by making
+  twelve holidays.
+
+A sponsor who wants a bill that might move should take the alternative. A
+sponsor who wants the argument made should take the repeal version, which can
+now be defended on the merits.
 
 ---
 
@@ -360,15 +446,23 @@ value is as a statement — and it should be understood as one.
     getting it wrong is worse than leaving it visibly open; Legislative Counsel
     should draft it against a current Code search.
 
-[^8]: **This section carries the whole weight of the repeal, and it does not
-    carry all of it.** Subsection (b) is where Memorial Day's Civil-War
-    commemoration is relocated. Note precisely what it does and does not do: it
-    houses the **Union dead of the Civil War**. It does not house the dead of
-    the Revolution, 1812, Mexico, the Spanish-American War, either World War,
-    Korea, Vietnam, the Gulf, Afghanistan, or Iraq — nor the Confederate dead,
-    whom Memorial Day observance has in practice included for over a century.
-    That gap is the central objection to this bill and is not answerable by
-    drafting alone.
+[^8]: **This section carries half the repeal; Sec. 3(b) carries the other
+    half.** Subsection (b) houses the **Union dead of the Civil War**, on the
+    day marking the completion of what they secured. The dead of every other
+    American war — the Revolution, 1812, Mexico, the Spanish-American War, both
+    World Wars, Korea, Vietnam, the Gulf, Afghanistan, Iraq — are housed by
+    Sec. 3(b) on May 8. An earlier draft placed only the Civil War dead and
+    left the rest unhoused, which was the bill's fatal defect; the two
+    provisions must be read together and neither should be dropped without the
+    other.
+    <br><br>
+    One class this bill does not resolve: the **Confederate dead**, whom
+    Memorial Day observance has in practice included for over a century, and
+    who fit neither destination — they are not honored by a Union victory at
+    Juneteenth, and they did not die "in the military service of the United
+    States" under Sec. 3(b). The current draft is silent. That silence is a
+    choice, and sponsors should make it deliberately rather than discover it in
+    a hearing.
 
 [^9]: Senator Johnson's stated rationale: "We support celebrating emancipation
     with a federal holiday, but believe we should eliminate a current holiday
@@ -378,6 +472,37 @@ value is as a statement — and it should be understood as one.
     Cong.)](https://www.govinfo.gov/content/pkg/BILLS-118s2970is/html/BILLS-118s2970is.htm),
     the Indigenous Peoples' Day Act, which would strike Columbus Day and insert
     Indigenous Peoples' Day — introduced repeatedly, never enacted.
+
+[^11]: **State this carefully — June 19 is not a military victory date.** The
+    drafting instinct is to call Juneteenth "when the Civil War was effectively
+    won." It is not, and a staffer will know it: Lee surrendered at Appomattox
+    on April 9, 1865; the last land engagement was at Palmito Ranch on May
+    12–13; Kirby Smith surrendered the Trans-Mississippi Department on May 26;
+    the CSS *Shenandoah* did not surrender until November. June 19 falls after
+    all of these.
+    <br><br>
+    What June 19 does mark is the completion of the war's **central purpose** —
+    the announcement of emancipation in the last State in rebellion where it
+    had not been carried. That is the accurate claim and it is also the
+    stronger one for this bill, because the argument is about what the Union
+    dead *secured*, not about when the shooting stopped. Finding (9) is drafted
+    accordingly. Do not let "effectively won" back into the text.
+
+[^12]: **Subsection (c) is doing real work and should not be cut as
+    surplusage.** Repealing Memorial Day removes a paid holiday; without
+    (c) it would also silently remove the *observance* — grave decoration at
+    155 national cemeteries, Arlington's "Flags In," the ceremonies that are
+    what most Americans mean by Memorial Day. Subsection (c) moves the practice
+    with the day. A drafter tempted to trim the section to (a), (b) and (d)
+    should understand they are handing opponents the accusation that the bill
+    abolishes the ceremonies and keeps only the day off.
+    <br><br>
+    Consider also whether to relocate rather than orphan the [National Moment
+    of Remembrance Act (Pub. L.
+    106–579)](https://www.govinfo.gov/content/pkg/PLAW-106publ579/html/PLAW-106publ579.htm),
+    whose 3:00 p.m. observance and White House Commission are keyed to Memorial
+    Day — see footnote 7. Moving the Moment of Remembrance to May 8 alongside
+    the commemoration would answer objection 7 in part and costs nothing.
 
 [^10]: Confirmed instances: [S. 70 (112th Cong.), introduced January 25,
     2011](https://www.govinfo.gov/content/pkg/BILLS-112s70is/html/BILLS-112s70is.htm);

@@ -42,6 +42,26 @@ The full case against is set out in
 [the objections section](spring-holidays-reform-act.md#objections-and-how-this-draft-answers-them)
 of the bill, stated as an opponent would state it rather than softened.
 
+## What the bill actually proposes
+
+Not the abolition of a memorial — its **division between two anchored days**:
+
+| | receives | anchored to |
+|---|---|---|
+| **Juneteenth**, June 19 | the Union dead of the Civil War | the completion of emancipation, the purpose they died for |
+| **Victory Day**, May 8 | the dead of every American war | a victory won |
+
+Memorial Day is presently joined to no event at all. Its ceremonies seldom
+mention the war it came from, and it has drifted toward observance without
+recollection. Each memorial here gains what a general day of mourning lacks —
+**an account of what the dead accomplished.**
+
+The obvious retort is that this anchors mourning for all wars to one war's
+victory. Congress has already done precisely that and it was uncontroversial:
+**Armistice Day**, established to mark one specific event, became **Veterans
+Day** in 1954, honoring the veterans of every war while staying fixed to the
+1918 armistice date. Seventy years on, nobody finds it strange.
+
 ## Two drafts, deliberately
 
 | | Approach | Abolishes anything? |
