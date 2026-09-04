@@ -27,157 +27,102 @@ Congress finds the following:
 decorating the graves of the Civil War dead. On May 5, 1868, General John A.
 Logan, Commander in Chief of the Grand Army of the Republic, issued General
 Orders No. 11, designating May 30, 1868 "for the purpose of strewing with
-flowers or otherwise decorating the graves of comrades who died in defense of
+flowers, or otherwise decorating the graves of comrades who died in defense of
 their country during the late rebellion," and expressing "the hope that it will
-be kept up from year to year."
+be kept up from year to year."[^1]
 
-**(2)** The first federal enactment recognizing the observance was the Act of
-August 1, 1888 (25 Stat. 353), which made May 30, "usually called 'Decoration
-Day,'" a holiday within the District of Columbia.
+**(2)** That order described the Union dead in these words: "Their soldier
+lives were the reveille of freedom to a race in chains, and their deaths the
+tattoo of rebellious tyranny in arms."[^2]
 
-**(3)** After the First World War, the observance was broadened by custom to
+**(3)** The first federal enactment recognizing the observance was the [Act of
+August 1, 1888](https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg353.pdf)
+(25 Stat. 353), which made May 30, "usually called 'Decoration Day,'" a holiday
+within the District of Columbia.
+
+**(4)** After the First World War, the observance was broadened by custom to
 honor those who died in all American wars. No Act of Congress effected that
-broadening, and no provision of law defines the scope of Memorial Day today.
+broadening, and no provision of law defines the scope of Memorial Day
+today.[^3]
 
-**(4)** Section 116 of title 36, United States Code, designates the last Monday
-in May as Memorial Day and requests the President to proclaim a period of
-prayer for permanent peace. It names no war, no class of dead, and no veterans.
+**(5)** [Section 116 of title 36, United States
+Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section116&num=0&edition=prelim),
+designates the last Monday in May as Memorial Day and requests the President to
+proclaim a period of prayer for permanent peace. It names no war, no class of
+dead, and no veterans.
 
-**(5)** The emancipation of enslaved Americans was accomplished by force of
+**(6)** The emancipation of enslaved Americans was accomplished by force of
 arms. General Order No. 3, issued at Galveston, Texas on June 19, 1865,
 announced that emancipation to the people of Texas by authority of the United
 States Army.
 
-**(6)** Hundreds of thousands of Union soldiers died in the war that ended
+**(7)** Hundreds of thousands of Union soldiers died in the war that ended
 slavery. Their sacrifice and the emancipation it secured are one history, and
 the Nation commemorates them on separate days that make no reference to one
 another.
 
-**(7)** Juneteenth National Independence Day was made a legal public holiday by
-Public Law 117–17. That Act amended section 6103(a) of title 5, United States
-Code, and nothing else. Juneteenth has no designation or observance provision
-in title 36, United States Code, and no statutory statement of what it
-commemorates.
+**(8)** Juneteenth National Independence Day was made a legal public holiday by
+[Public Law 117–17](https://www.govinfo.gov/content/pkg/PLAW-117publ17/html/PLAW-117publ17.htm).
+That Act amended [section 6103(a) of title 5, United States
+Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim),
+and nothing else. Juneteenth has no designation or observance provision in
+title 36, United States Code, and no statutory statement of what it
+commemorates.[^4]
 
-**(8)** May 8 has been proclaimed as a day of celebration of victory in the
+**(9)** May 8 has been proclaimed as a day of celebration of victory in the
 Second World War in each of 2025 and 2026. Each proclamation names a single
-calendar date and rests on no statute. The day has no standing in law.
-
-> **[DRAFTING NOTE — findings deliberately omit a birthplace claim.]** At least
-> five communities claim to have originated the observance: Boalsburg,
-> Pennsylvania (1864); Charleston, South Carolina (May 1, 1865, the "Martyrs of
-> the Race Course," organized by Black freedmen); Columbus, Georgia (April 26,
-> 1866); Columbus, Mississippi (April 25, 1866); and Waterloo, New York, which
-> Congress "recognized" by concurrent resolution in 1966 — a measure with no
-> legal effect, and a claim historians widely reject.
->
-> The Charleston commemoration is the most significant of these for this bill's
-> argument, and it is the one most easily overstated. David Blight, who
-> recovered it, writes that "pride of place as the first large scale ritual of
-> Decoration Day … goes to African Americans in Charleston" — *pride of place*,
-> not proven primacy — and he asserts **no causal link** from Charleston to
-> Logan's 1868 order. A findings clause connecting the two would be
-> unsupported. Finding (1) therefore credits Logan with nationalizing an
-> existing custom and claims no origin point.
->
-> Also unverified and therefore not used: Logan's line that the Union dead's
-> "soldier lives were the reveille of freedom to a race in chains." It appears
-> in General Orders No. 11 and would be the single best sentence available to
-> this bill — but the text was confirmed only in part, and the issuing agency
-> warns that "different versions of the general order with slight differences
-> in wording, spelling and punctuation exist." **Verify against a facsimile
-> before putting it in findings.**
+calendar date and rests on no statute. The day has no standing in law.[^5]
 
 ## SEC. 3. VICTORY DAY FOR WORLD WAR II.
 
-**(a) Legal Public Holiday.** — Section 6103(a) of title 5, United States Code,
+**(a) Legal Public Holiday.** — [Section 6103(a) of title 5, United States
+Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim),
 is amended by inserting after the item relating to Washington's Birthday the
 following:
 
 > "Victory Day for World War II, May 8."
 
-**(b) Designation.** — Chapter 1 of title 36, United States Code, is amended by
-adding at the end the following new section:
+**(b) Designation.** — [Chapter 1 of title 36, United States
+Code](https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title36%2Fsubtitle1%2FpartA%2Fchapter1&edition=prelim),
+is amended by adding at the end the following new section:
 
 > **"§ 149. Victory Day for World War II**
 > "(a) **Designation.** — May 8 is Victory Day for World War II.
 > "(b) **Proclamation.** — The President is requested to issue each year a
 > proclamation calling on the people of the United States to observe the day
-> with appropriate ceremonies and activities."
-
-> **[DRAFTING NOTE — the proclamation verb is chosen, not inherited.]**
-> "Is requested to" matches §§ 116 (Memorial Day), 129 (Pearl Harbor
-> Remembrance) and 144 (Patriot Day). The stronger "shall issue" appears only
-> at § 145, and there it attaches to a narrow two-minutes-of-silence duty, not
-> to a general observance. For a general observance, "is requested to" is the
-> conventional form.
+> with appropriate ceremonies and activities."[^6]
 
 ## SEC. 4. REPEAL OF MEMORIAL DAY.
 
-**(a) Legal Public Holiday.** — Section 6103(a) of title 5, United States Code,
+**(a) Legal Public Holiday.** — [Section 6103(a) of title 5, United States
+Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim),
 is amended by striking the item relating to Memorial Day.
 
-**(b) Designation.** — Section 116 of title 36, United States Code, is
-repealed, and the table of sections for chapter 1 of that title is amended by
-striking the item relating to that section.
+**(b) Designation.** — [Section 116 of title 36, United States
+Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section116&num=0&edition=prelim),
+is repealed, and the table of sections for chapter 1 of that title is amended
+by striking the item relating to that section.
 
-**(c) Conforming Amendments.** — [Reserved. See the drafting note.]
-
-> **[DRAFTING NOTE — the conforming amendments are not optional, and the
-> footprint is large.]** A search of the United States Code returns 21
-> provisions referring to Memorial Day. A repeal that leaves any of them
-> dangling is a talking point. At minimum:
-> - **4 U.S.C. § 6(d)** — flag display, "Memorial Day (half-staff until noon),
->   the last Monday in May"
-> - **4 U.S.C. § 7** — the half-staff-until-noon rule
-> - **36 U.S.C. § 131** — National Safe Boating Week, keyed to "the last Friday
->   before Memorial Day"
-> - **36 U.S.C. § 902(c)(1)(B)** — POW/MIA flag display days
-> - **43 U.S.C. § 1471g** — appropriations for Memorial Day and Fourth of July
->   ceremonies in the National Capital Region
-> - **2 U.S.C. § 394**; **10 U.S.C. § 113 note**
-> - Five sets of federal procedural rules listing legal holidays: Bankr. R.
->   9006; Fed. R. Crim. P. 45 and 56; Fed. R. App. P. 26 and 45; Fed. R. Civ.
->   P. 6
-> - **The entire National Moment of Remembrance Act (Pub. L. 106–579)**, whose
->   § 3(4) *defines* "Memorial Day" by cross-reference to the very line
->   subsection (a) strikes, and whose White House Commission exists solely to
->   administer a 3:00 p.m. observance on that day. Repeal orphans a statutory
->   body.
->
-> This subsection is left reserved rather than filled in because getting it
-> wrong is worse than leaving it visibly open. Legislative Counsel should draft
-> it against a current Code search.
+**(c) Conforming Amendments.** — [Reserved.][^7]
 
 ## SEC. 5. OBSERVANCE OF JUNETEENTH NATIONAL INDEPENDENCE DAY.
 
-Chapter 1 of title 36, United States Code, is amended by adding at the end the
-following new section:
+[Chapter 1 of title 36, United States
+Code](https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title36%2Fsubtitle1%2FpartA%2Fchapter1&edition=prelim),
+is amended by adding at the end the following new section:
 
 > **"§ 150. Juneteenth National Independence Day**
 > "(a) **Designation.** — June 19 is Juneteenth National Independence Day.
 > "(b) **Commemoration.** — Juneteenth National Independence Day commemorates
 > the announcement of emancipation at Galveston, Texas on June 19, 1865, by
 > General Order No. 3; the emancipation of enslaved persons in the United
-> States; and **those who died in the military service of the United States in
-> the war by which that emancipation was secured**.
+> States; and those who died in the military service of the United States in
+> the war by which that emancipation was secured.
 > "(c) **Proclamation.** — The President is requested to issue each year a
 > proclamation calling on the people of the United States to observe the day
 > with appropriate ceremonies and activities, including the public reading of
 > General Order No. 3 and of the Thirteenth, Fourteenth, and Fifteenth
-> Amendments to the Constitution."
-
-> **[DRAFTING NOTE — this section carries the whole weight of the repeal, and
-> it should be understood that it does not carry all of it.]** Subsection (b)
-> is where Memorial Day's Civil-War commemoration is relocated. Note precisely
-> what it does and does not do: it houses the **Union dead of the Civil War**.
-> It does not house the dead of the Revolution, 1812, Mexico, the
-> Spanish-American War, either World War, Korea, Vietnam, the Gulf,
-> Afghanistan, or Iraq — nor the Confederate dead, whom Memorial Day observance
-> has in practice included for over a century.
->
-> **That gap is the central objection to this bill** and it is not answerable
-> by drafting alone. See below.
+> Amendments to the Constitution."[^8]
 
 ---
 
@@ -193,32 +138,39 @@ national cemeteries, for Arlington's "Flags In," and for the statutory 3:00
 p.m. National Moment of Remembrance. Veterans Day honors those who *served* —
 it has never been a day for the dead. Sec. 5(b) relocates the Union Civil War
 dead and no one else. **This draft does not answer this objection.** It can
-only be answered by narrowing the bill (drop Sec. 4) or by writing an
-all-wars commemoration into Sec. 5(b), which would make Juneteenth carry a
-burden its own constituency never asked for — see objection 5.
+only be answered by narrowing the bill (drop Sec. 4) or by writing an all-wars
+commemoration into Sec. 5(b), which would make Juneteenth carry a burden its
+own constituency never asked for — see objection 5.
 
 **2. The premise is legally false.** No operative statute makes Memorial Day a
-Civil-War observance; 36 U.S.C. § 116 names no war, and the only enacted
-purpose language (Pub. L. 106–579 § 2) is all-wars. *Answered:* findings (3)
-and (4) now state this plainly rather than assuming otherwise. The bill's
-honest case is not "Memorial Day is really a Civil War holiday" but "Memorial
-Day's origin was the Civil War, its present scope is undefined in law, and
-Congress should decide deliberately what it commemorates." That is a defensible
-argument. The original premise was not.
+Civil-War observance; [36 U.S.C. §
+116](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section116&num=0&edition=prelim)
+names no war, and the only enacted purpose language ([Pub. L.
+106–579](https://www.govinfo.gov/content/pkg/PLAW-106publ579/html/PLAW-106publ579.htm)
+§ 2) is all-wars. *Answered:* findings (4) and (5) now state this plainly
+rather than assuming otherwise. The bill's honest case is not "Memorial Day is
+really a Civil War holiday" but "Memorial Day's origin was the Civil War, its
+present scope is undefined in law, and Congress should decide deliberately what
+it commemorates." That is a defensible argument. The original premise was not.
 
-**3. Congress has never done this.** No day has been removed from § 6103 or its
-predecessors. In July 2020, Senators Johnson and Lankford proposed dropping
-Columbus Day — chosen expressly as least defended — in exchange for Juneteenth.
-Withdrawn within days; Juneteenth passed the next year as an eleventh holiday
-with no offset. *Partially answered:* Sec. 3 pairs the repeal with an addition,
-so § 6103 still names eleven holidays and the bill is net-neutral on federal
-paid time off. That is the strongest structural argument available here, and it
-should lead any section-by-section. It does not answer objection 1.
+**3. Congress has never done this.** No day has been removed from [5 U.S.C. §
+6103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim)
+or its predecessors. In July 2020, Senators Johnson and Lankford proposed
+dropping Columbus Day — chosen expressly as least defended — in exchange for
+Juneteenth. Withdrawn within days; Juneteenth passed the next year as an
+eleventh holiday with no offset.[^9] *Partially answered:* Sec. 3 pairs the
+repeal with an addition, so § 6103 still names eleven holidays and the bill is
+net-neutral on federal paid time off. That is the strongest structural argument
+available here and should lead any section-by-section. It does not answer
+objection 1.
 
 **4. The precedent runs the other way.** Congress moved Veterans Day to a
-Monday in 1968 (Pub. L. 90–363); veterans' organizations objected, 46 states
-refused to follow, and Congress reversed itself in 1975 (Pub. L. 94–97). The
-last time Congress altered a memorial holiday over veterans' objection,
+Monday in 1968 ([Pub. L.
+90–363](https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg250.pdf));
+veterans' organizations objected, 46 states refused to follow, and Congress
+reversed itself in 1975 ([Pub. L.
+94–97](https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg479.pdf)).
+The last time Congress altered a memorial holiday over veterans' objection,
 veterans won. *Not answered.* It is simply true, and sponsors should expect it
 cited against them.
 
@@ -235,15 +187,16 @@ that distinction survives contact with a hearing is another question.
 this.** Senator Daniel Inouye — a Medal of Honor recipient — introduced bills
 to restore Memorial Day to May 30 in nearly every Congress from the late 1980s
 until his death in 2012, on the argument that merely moving the day to a Monday
-had cost it its meaning. The American Legion, VFW, DAV, the Sons of Union
+had cost it its meaning.[^10] The American Legion, VFW, DAV, the Sons of Union
 Veterans of the Civil War (the Grand Army's successor, with a specific claim on
 General Orders No. 11), and Gold Star organizations will not be neutral.
 *Not answered.* It is a political fact, not a drafting problem.
 
-**7. Congress's most recent word is the opposite of this bill's.** Pub. L.
-106–579 § 2(7), enacted in 2000, states that a National Moment of Remembrance
-is needed "to **reclaim** Memorial Day as the sacred and noble event that that
-day is intended to be." *Not answered.*
+**7. Congress's most recent word is the opposite of this bill's.** [Pub. L.
+106–579](https://www.govinfo.gov/content/pkg/PLAW-106publ579/html/PLAW-106publ579.htm)
+§ 2(7), enacted in 2000, states that a National Moment of Remembrance is needed
+"to **reclaim** Memorial Day as the sacred and noble event that that day is
+intended to be." *Not answered.*
 
 ---
 
@@ -253,23 +206,26 @@ If the goal is to reconnect national commemoration to emancipation and to the
 Union dead — rather than to abolish a holiday — there is a precedent exactly on
 point, and it passed without controversy.
 
-The **Act of June 1, 1954** (ch. 250, 68 Stat. 168) converted **Armistice Day**
-— a holiday commemorating one specific event, the armistice of November 11,
-1918 — into **Veterans Day**, honoring the veterans of all wars. It did so by
-striking one word and inserting another. Nothing was abolished. No constituency
-was displaced.
+The [Act of June 1,
+1954](https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg168.pdf)
+(ch. 250, 68 Stat. 168) converted **Armistice Day** — a holiday commemorating
+one specific event, the armistice of November 11, 1918 — into **Veterans Day**,
+honoring the veterans of all wars. It did so by striking one word and inserting
+another. Nothing was abolished. No constituency was displaced.
 
 The alternative version of this Act would:
 
 1. **Keep Sec. 3** — establish May 8 as a legal public holiday and designate it
-   at 36 U.S.C. § 149. (This makes twelve federal holidays rather than eleven,
+   at 36 U.S.C. § 149. This makes twelve federal holidays rather than eleven,
    which is a real cost and should be stated plainly; the net-neutrality
-   argument belongs to the repeal version only.)
-2. **Replace Sec. 4** with an amendment to 36 U.S.C. § 116 adding the scope
-   language it has never had — stating what Memorial Day commemorates, and
-   recognizing expressly that the observance arose from the decoration of the
-   graves of the Union dead and that the emancipation those deaths secured is
-   part of what the day remembers.
+   argument belongs to the repeal version only.
+2. **Replace Sec. 4** with an amendment to [36 U.S.C. §
+   116](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section116&num=0&edition=prelim)
+   adding the scope language it has never had — stating what Memorial Day
+   commemorates, and recognizing expressly that the observance arose from the
+   decoration of the graves of the Union dead and that the emancipation those
+   deaths secured is part of what the day remembers. Finding (2)'s language
+   from General Orders No. 11 is the natural basis for that clause.
 3. **Keep Sec. 5**, giving Juneteenth its first statutory designation and
    observance section.
 
@@ -282,3 +238,153 @@ count, which is the repeal version's one clear advantage.
 **Recommendation to the drafter:** the alternative is far more likely to be
 introduced, and it captures most of the substantive goal. The repeal version's
 value is as a statement — and it should be understood as one.
+
+---
+
+## Drafting notes
+
+[^1]: **Findings deliberately claim no birthplace for the observance.** At
+    least five communities claim to have originated it: Boalsburg,
+    Pennsylvania (1864); Charleston, South Carolina (May 1, 1865, the "Martyrs
+    of the Race Course," organized by Black freedmen); Columbus, Georgia
+    (April 26, 1866); Columbus, Mississippi (April 25, 1866); and Waterloo,
+    New York, which Congress "recognized" by concurrent resolution in 1966 — a
+    measure with no legal effect, and a claim historians widely reject. The
+    Charleston commemoration is the most significant for this bill's argument
+    and the most easily overstated: David Blight, who recovered it, writes that
+    "pride of place as the first large scale ritual of Decoration Day … goes to
+    African Americans in Charleston" — *pride of place*, not proven primacy —
+    and asserts **no causal link** to Logan's 1868 order. A findings clause
+    connecting the two would be unsupported. Finding (1) therefore credits
+    Logan with nationalizing an existing custom and claims no origin point.
+    Note also that General Orders No. 11 was issued by a private fraternal
+    organization and designated a single date; it did not create a federal
+    holiday, and any finding saying so is false.
+
+[^2]: **Verified against a facsimile, 2026-09-04.** The quotation is confirmed
+    by direct reading of the scanned page image of Robert B. Beath, *History of
+    the Grand Army of the Republic* (New York: Bryan, Taylor & Co., 1889) —
+    the GAR's own official history — at **page 90**:
+    [archive.org, leaf n141](https://archive.org/details/historyofgrandar00beat/page/n141/mode/1up).
+    The same page reproduces the order's dateline ("Headquarters Grand Army of
+    the Republic, Washington, D. C., May 5, 1868") and paragraph I in full.
+    <br><br>
+    Two caveats, stated because the issuing agency warns that "different
+    versions of the general order with slight differences in wording, spelling
+    and punctuation exist." First, this is a facsimile of an **1889 printing**
+    of the order in the organization's official history, not of the 1868
+    circular itself; it is the strongest source located, not the original
+    document. Second, the same page records that Adjutant-General Chipman
+    drafted the order after a comrade in Cincinnati wrote describing the German
+    custom of scattering flowers on graves in springtime, and that Logan
+    "warmly approved the Order, himself adding several paragraphs." Beath does
+    not say which paragraphs Logan added, so the sentence in finding (2) should
+    be attributed to the order, not personally to Logan.
+
+[^3]: The broadening is documented by the Department of Veterans Affairs
+    National Cemetery Administration: "After World War I, the event was
+    expanded to honor those who died in all American wars." Independent
+    confirmation that no scope language exists: S. 70 (112th Cong.) proposed
+    *adding* to § 116(b) a paragraph calling on the people "to observe Memorial
+    Day as a day of ceremonies to show respect for United States veterans of
+    wars and other military conflicts" — a sitting senator identifying the
+    absence as a gap worth filling.
+
+[^4]: A full search of the United States Code for "Juneteenth" returns nine
+    results: [5 U.S.C. §
+    6103(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim),
+    a short-title note at [5 U.S.C. §
+    101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim),
+    five federal procedural-rule holiday
+    lists, and the Popular Name table. **There is no title 36 designation
+    section for Juneteenth** — no § 116 analogue — so there is no existing
+    observance statute into which a commemorative function can be "folded."
+    Sec. 5 must create one, which means this bill would write the first
+    statutory scope language for either holiday. That is a substantially bigger
+    legislative act than a housekeeping repeal.
+
+[^5]: [Proclamation
+    10934](https://www.govinfo.gov/content/pkg/FR-2025-05-12/html/2025-08488.htm),
+    "Victory Day for World War II, 2025," signed May 7, 2025, 90 Fed. Reg.
+    20229; [Proclamation
+    11028](https://www.govinfo.gov/content/pkg/FR-2026-05-12/html/2026-09506.htm),
+    "Victory Day for World War II, 2026," signed May 7, 2026, 91 Fed. Reg.
+    26891. Each proclaims one named calendar date, contains no
+    annual-recurrence language, and cites no statute. Two consecutive years
+    establish a practice, not an obligation. Note the name: **no federal
+    instrument uses "Victory in Europe Day"** — both proclamations are titled
+    *Victory Day for World War II* and frame the occasion as victory over
+    national socialism and fascism generally, not as a European-theater
+    observance. A bill naming a designation that does not exist invites the
+    objection that its drafters did not check.
+
+[^6]: **The proclamation verb is chosen, not inherited.** "Is requested to"
+    matches [§
+    116](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section116&num=0&edition=prelim)
+    (Memorial Day), [§ 129](https://www.law.cornell.edu/uscode/text/36/129)
+    (Pearl Harbor Remembrance) and
+    [§ 144](https://www.law.cornell.edu/uscode/text/36/144) (Patriot Day). The
+    stronger "shall issue" appears only at
+    [§ 145](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section145&num=0&edition=prelim),
+    and there it attaches to a narrow two-minutes-of-silence duty rather than a
+    general observance. For a general observance, "is requested to" is the
+    conventional form.
+
+[^7]: **The conforming amendments are not optional, and the footprint is
+    large.** A search of the United States Code returns 21 provisions referring
+    to Memorial Day. A repeal that leaves any of them dangling is a talking
+    point. At minimum:
+    [4 U.S.C. § 6(d)](https://www.law.cornell.edu/uscode/text/4/6) (flag
+    display, "Memorial Day (half-staff until noon), the last Monday in May");
+    [4 U.S.C. § 7](https://www.law.cornell.edu/uscode/text/4/7) (the
+    half-staff-until-noon rule);
+    [36 U.S.C. § 131](https://www.law.cornell.edu/uscode/text/36/131) (National
+    Safe Boating Week, keyed to "the last Friday before Memorial Day");
+    [36 U.S.C. § 902(c)(1)(B)](https://www.law.cornell.edu/uscode/text/36/902)
+    (POW/MIA flag display days);
+    [43 U.S.C. § 1471g](https://www.law.cornell.edu/uscode/text/43/1471g)
+    (appropriations for Memorial Day and Fourth of July ceremonies in the
+    National Capital Region);
+    [2 U.S.C. § 394](https://www.law.cornell.edu/uscode/text/2/394);
+    [10 U.S.C. § 113](https://www.law.cornell.edu/uscode/text/10/113) note; and
+    five sets of federal procedural rules listing legal holidays (Bankr. R.
+    9006; Fed. R. Crim. P. 45 and 56; Fed. R. App. P. 26 and 45; Fed. R. Civ.
+    P. 6).
+    <br><br>
+    Most consequential: the entire [National Moment of Remembrance Act (Pub. L.
+    106–579)](https://www.govinfo.gov/content/pkg/PLAW-106publ579/html/PLAW-106publ579.htm),
+    whose § 3(4) *defines* "Memorial Day" by cross-reference to the very line
+    Sec. 4(a) strikes, and whose White House Commission exists solely to
+    administer a 3:00 p.m. observance on that day. Repeal orphans a statutory
+    body. This subsection is left reserved rather than filled in because
+    getting it wrong is worse than leaving it visibly open; Legislative Counsel
+    should draft it against a current Code search.
+
+[^8]: **This section carries the whole weight of the repeal, and it does not
+    carry all of it.** Subsection (b) is where Memorial Day's Civil-War
+    commemoration is relocated. Note precisely what it does and does not do: it
+    houses the **Union dead of the Civil War**. It does not house the dead of
+    the Revolution, 1812, Mexico, the Spanish-American War, either World War,
+    Korea, Vietnam, the Gulf, Afghanistan, or Iraq — nor the Confederate dead,
+    whom Memorial Day observance has in practice included for over a century.
+    That gap is the central objection to this bill and is not answerable by
+    drafting alone.
+
+[^9]: Senator Johnson's stated rationale: "We support celebrating emancipation
+    with a federal holiday, but believe we should eliminate a current holiday
+    in exchange." Columbus Day was chosen expressly as "a holiday that is
+    lightly celebrated, and least disruptive to Americans' schedules." Compare
+    [S. 2970 (118th
+    Cong.)](https://www.govinfo.gov/content/pkg/BILLS-118s2970is/html/BILLS-118s2970is.htm),
+    the Indigenous Peoples' Day Act, which would strike Columbus Day and insert
+    Indigenous Peoples' Day — introduced repeatedly, never enacted.
+
+[^10]: Confirmed instances: [S. 70 (112th Cong.), introduced January 25,
+    2011](https://www.govinfo.gov/content/pkg/BILLS-112s70is/html/BILLS-112s70is.htm);
+    S. 189 (106th Cong.); H.R. 235 (94th Cong.). Secondary sources place the
+    first such bill in 1987 or 1989 and conflict; **do not state a start year
+    without pulling the earlier bills.** Likewise, the American Legion's and
+    VFW's positions on May 30 restoration are widely reported but were not
+    confirmed against a formal resolution — their opposition to *abolition* is
+    a safe prediction, but a specific citation to a Legion resolution is not
+    currently supportable.
