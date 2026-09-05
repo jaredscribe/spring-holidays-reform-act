@@ -8,9 +8,10 @@ this.***
 
 **A BILL**
 
-To establish Victory Day for World War II as a legal public holiday, to repeal
-Memorial Day, to provide for the observance of Juneteenth National
-Independence Day, and for other purposes.
+To establish Victory in World War II Memorial Day as a legal public holiday, to
+repeal Memorial Day, to provide for the observance of Juneteenth National
+Independence Day, also known as Union Victory and Civil War Memorial Day, and
+for other purposes.
 
 *Be it enacted by the Senate and House of Representatives of the United States
 of America in Congress assembled,*
@@ -101,23 +102,23 @@ day that marks a victory won. Neither observance is diminished, and each gains
 what a general day of mourning presently lacks — an account of what the dead
 accomplished.
 
-## SEC. 3. VICTORY DAY FOR WORLD WAR II.
+## SEC. 3. VICTORY IN WORLD WAR II MEMORIAL DAY.
 
 **(a) Legal Public Holiday.** — [Section 6103(a) of title 5, United States
 Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim),
 is amended by inserting after the item relating to Washington's Birthday the
 following:
 
-> "Victory Day for World War II, May 8."
+> "Victory in World War II Memorial Day, May 8."
 
 **(b) Designation.** — [Chapter 1 of title 36, United States
 Code](https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title36%2Fsubtitle1%2FpartA%2Fchapter1&edition=prelim),
 is amended by adding at the end the following new section:
 
-> **"§ 149. Victory Day for World War II**
-> "(a) **Designation.** — May 8 is Victory Day for World War II.
-> "(b) **Commemoration.** — Victory Day for World War II commemorates the
-> victory of the United States and its allies in the Second World War; and
+> **"§ 149. Victory in World War II Memorial Day**
+> "(a) **Designation.** — May 8 is Victory in World War II Memorial Day.
+> "(b) **Commemoration.** — Victory in World War II Memorial Day commemorates
+> the victory of the United States and its allies in the Second World War; and
 > **those who have died in the military service of the United States, in every
 > war and conflict in which the United States has engaged**.
 > "(c) **Observance.** — The people of the United States are urged to observe
@@ -156,7 +157,8 @@ Code](https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title36%2Fsubtitle1%2
 is amended by adding at the end the following new section:
 
 > **"§ 150. Juneteenth National Independence Day**
-> "(a) **Designation.** — June 19 is Juneteenth National Independence Day.
+> "(a) **Designation.** — June 19 is Juneteenth National Independence Day,
+> also known as Union Victory and Civil War Memorial Day.[^11]
 > "(b) **Commemoration.** — Juneteenth National Independence Day commemorates
 > the announcement of emancipation at Galveston, Texas on June 19, 1865, by
 > General Order No. 3; the emancipation of enslaved persons in the United
@@ -403,6 +405,21 @@ now be defended on the merits.
     national socialism and fascism generally, not as a European-theater
     observance. A bill naming a designation that does not exist invites the
     objection that its drafters did not check.
+    <br><br>
+    **Sec. 3 nonetheless departs from the proclamation title, deliberately**,
+    and establishes *Victory in World War II Memorial Day*. The departure is
+    safe in a way that "Victory in Europe Day" would not have been: the
+    objection above is to a bill that *asserts* an existing designation which
+    does not exist, whereas a statute creating a holiday is free to name it.
+    The added word is load-bearing. Sec. 4 repeals the last-Monday-in-May
+    **date**, but the words *Memorial Day* survive in the titles of **both**
+    successor holidays — § 149, and the alternate designation in § 150(a) — so
+    the accurate description of this bill is that it divides Memorial Day
+    between two anchored days rather than abolishing the name. That is the
+    answer to "you are abolishing Memorial Day," and it should be given in
+    those words. Expect the proclamation mismatch to be raised anyway; the
+    answer there is that two consecutive proclamations establish a practice,
+    not a designation.
 
 [^6]: **The proclamation verb is chosen, not inherited.** "Is requested to"
     matches [§
@@ -475,11 +492,31 @@ now be defended on the merits.
 
 [^11]: **State this carefully — June 19 is not a military victory date.** The
     drafting instinct is to call Juneteenth "when the Civil War was effectively
-    won." It is not, and a staffer will know it: Lee surrendered at Appomattox
-    on April 9, 1865; the last land engagement was at Palmito Ranch on May
-    12–13; Kirby Smith surrendered the Trans-Mississippi Department on May 26;
-    the CSS *Shenandoah* did not surrender until November. June 19 falls after
-    all of these.
+    won." It is not, and a staffer will know it. The decisive surrenders all
+    precede it. Lee surrendered the Army of Northern Virginia at [Appomattox
+    Court
+    House](https://www.battlefields.org/learn/civil-war/battles/appomattox-court-house)
+    on April 9, 1865. Johnston surrendered to Sherman at [Bennett
+    Place](https://historicsites.nc.gov/all-sites/bennett-place), near Durham,
+    North Carolina, on April 26. The last land engagement was at [Palmito
+    Ranch](https://www.battlefields.org/learn/civil-war/battles/palmito-ranch),
+    on the Rio Grande, on May 12–13. [Kirby
+    Smith](https://www.tshaonline.org/handbook/entries/smith-edmund-kirby)
+    surrendered the Trans-Mississippi Department to General Canby on May 26 —
+    though the sources differ, the American Battlefield Trust giving May 26 and
+    the *Handbook of Texas* June 2, so resolve that date before resting any
+    argument on it.
+    <br><br>
+    Two events fall the other way, and they make the "victory date" framing
+    worse rather than better. [Stand
+    Watie](https://www.battlefields.org/learn/biographies/stand-watie) — by the
+    American Battlefield Trust's account "the last Confederate commander to
+    cease field operations" — did not surrender until later in June 1865,
+    after the 19th by the date usually given. And the CSS *Shenandoah*, still
+    taking prizes in the Bering Sea, held out until November. So June 19 is
+    neither the end of the fighting, nor the last surrender, nor the decisive
+    one. It is not a military date at all, and no argument should be built as
+    though it were.
     <br><br>
     What June 19 does mark is the completion of the war's **central purpose** —
     the announcement of emancipation in the last State in rebellion where it
@@ -487,6 +524,15 @@ now be defended on the merits.
     stronger one for this bill, because the argument is about what the Union
     dead *secured*, not about when the shooting stopped. Finding (9) is drafted
     accordingly. Do not let "effectively won" back into the text.
+    <br><br>
+    **The alternate designation added by § 150(a) — Union Victory and Civil War
+    Memorial Day — uses "Victory" in exactly this sense**, the purpose secured,
+    and not to assert a battle date. The dates above are the reason the
+    distinction has to be kept: an unfriendly reader who knows Appomattox will
+    reach for it the moment the name is challenged, and the answer is that the
+    Union victory the day names is the emancipation the Union dead secured,
+    completed at Galveston on June 19, not the surrender at Appomattox ten
+    weeks earlier.
 
 [^12]: **Subsection (c) is doing real work and should not be cut as
     surplusage.** Repealing Memorial Day removes a paid holiday; without

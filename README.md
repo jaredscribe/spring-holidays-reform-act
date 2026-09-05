@@ -1,9 +1,16 @@
 # Spring Holidays Reform Act
 
-A proposal to restructure the spring commemorative calendar: establish **Victory in WWII day - May 8**
-as a federal holiday, and let **Juneteenth National
-Independence Day** also be known as the **Union Victory and Civil War memorial day**, giving it the statutory observance section it has never had.  **Repeal Memorial Day**, moving its 
-customary mourning for war dead to the prior two holidays.   See also the [Public Readings of the Founding Documents Act](https://github.com/jaredscribe/public-readings-of-the-founding-documents-act) and [Commemoratie Days Observance Act](https://github.com/jaredscribe/public-readings-of-the-founding-documents-act/blob/main/track-a2-commemorative-days-observance-act.md)
+A proposal to restructure the spring commemorative calendar: establish **Victory
+in World War II Memorial Day** on May 8 as a federal holiday, and let
+**Juneteenth National Independence Day** also be known as **Union Victory and
+Civil War Memorial Day**, giving it the statutory observance section it has
+never had. **Repeal Memorial Day**, moving its customary mourning for the war
+dead to the two days named above.
+
+Companion drafts: the [Public Readings of the Founding Documents
+Act](https://github.com/jaredscribe/public-readings-of-the-founding-documents-act)
+and the [Commemorative Days Observance
+Act](https://github.com/jaredscribe/public-readings-of-the-founding-documents-act/blob/main/track-a2-commemorative-days-observance-act.md).
 
 **Status: draft, not published as a recommendation. Read the objections first.**
 
@@ -50,7 +57,7 @@ Not the abolition of a memorial — its **division between two anchored days**:
 | | receives | anchored to |
 |---|---|---|
 | **Juneteenth**, June 19 | the Union dead of the Civil War | the completion of emancipation, the purpose they died for |
-| **Victory Day**, May 8 | the dead of every American war | a victory won |
+| **Victory in World War II Memorial Day**, May 8 | the dead of every American war | a victory won |
 
 Memorial Day is presently joined to no event at all. Its ceremonies seldom
 mention the war it came from, and it has drifted toward observance without
